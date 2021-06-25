@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Esther-jiwon/Esther-jiwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!&fontSize=70&animation=twinkling&fontAlign=80&fontAlignY=40)
+
+
+
+
+
+
+
+
+
+### Hi there 👋
